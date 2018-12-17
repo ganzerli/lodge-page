@@ -1,0 +1,15 @@
+{
+  "name": "lodge-page",
+  "version": "1.0.0",
+  "description": "lodge rent webpage made with SASS",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Massimo Ganzerli",
+  "license": "ISC",
+  "homepage": "https://ganzerli.github.io/lodge-page",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
